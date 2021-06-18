@@ -11,9 +11,12 @@ Data science portfolio
 - And then i scatterplotted the data of CO2 Emission and Engine Size to know the relationship
 - It told us that the larger engine size, the higher its CO2 Emisson
 - Then i modeled the data using Linear Regression and plotted with train data
-![Plot the fitting model](https://github.com/khns26/Portfolio/blob/main/linreg.png?raw=true) 
+<p align="center">
+  <img src="https://github.com/khns26/Portfolio/blob/main/linreg.png?raw=true" alt="Plot the fitting model"/>
+</p>
 
-# Project 3 : [Modeling and Predicting House Prices using Linear Regression](https://github.com/khns26/mini_project/blob/d66e6626afd4e3788a2f4ede62d67a879a9c4dfc/LinearRegression-House%20Price%20Modeling.ipynb)
+
+# [Project 3 : Modeling and Predicting House Prices using Linear Regression](https://github.com/khns26/mini_project/blob/d66e6626afd4e3788a2f4ede62d67a879a9c4dfc/LinearRegression-House%20Price%20Modeling.ipynb)
 - I made a model to predict house prices using array of numbers
 - This only uses 1 feature which is number of bedrooms
 

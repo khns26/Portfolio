@@ -31,6 +31,7 @@ Data science portfolio
 <p align="center">
 <img src="https://github.com/khns26/mini_project/blob/main/scatterplot%20co2%20and%20engine%20size.png?raw=true" alt="Scatterplot of CO2 Emission and Engine Size"/>
   </p>
+  
 - It told us that the larger engine size, the higher its CO2 Emisson
 - Then i modeled the data using Linear Regression and plotted with train data
 <p align="center">

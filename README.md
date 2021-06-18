@@ -8,10 +8,12 @@ Data science portfolio
 <p align="center">
 <img src="https://github.com/khns26/mini_project/blob/main/plot%20df_ts.jpg?raw=true"/>
   </p>
+  
 - The data must be stationary to be modeled. But unfortunately, based on the graphic above our data is not stationary. So i must do differencing process and the result was like this
 <p align="center">
 <img src="https://github.com/khns26/mini_project/blob/main/plot%20df%20diff.jpg?raw=true"/>
   </p>
+
 - Then i modeled the data using ARIMA(0,1,1) model with MLE as method
 - I predicted one month ahead (January 21st, 2021) stocks price using the model
 <p align="center">

@@ -17,6 +17,7 @@ Data science portfolio
 <p align="center">
 <img src="https://github.com/khns26/mini_project/blob/main/plot%20ramal%20jan%2021.jpg?raw=true"/>
   </p>
+  
 - I also plotted the training data and the predicted data
 <p align="center">
 <img src="https://github.com/khns26/mini_project/blob/main/asli%20vs%20taksiran.jpg?raw=true"/>

@@ -38,9 +38,34 @@ Data science portfolio
   <img src="https://github.com/khns26/Portfolio/blob/main/linreg.png?raw=true" alt="Plot the fitting model"/>
 </p>
 
-# [Project 3 : Customer Churn Prediction]
-This project aims to help Telecommunication company to predict its customer churn. I did these four steps in this project:
+# [Project 3 : Customer Churn Prediction](https://github.com/khns26/Customer_Churn_Prediction)
+This project aims to help Telecommunication company to predict its customer churn. I did these three steps in this project:
 1. Exploratory Data Analysis
 2. Data Pre-Processing
-3. Machine Learning Modeling
+3. Machine Learning Modeling using Random Forest Classifier
 
+Exploratory Data Analysis helped me to understand the data that is being used, we will know the distribution of the data, the frequency, correlation, etc. In general, EDA will cover these steps:
+- Univariat Analysis : descriptive analysis with 1 variable.
+- Bivariat Analysis : relations analysis with 2 variables.
+- Multivariat Analysis : analysis with more than 2 variables.
+
+In this case, we'll be covering the distribution of :
+- Percentage of distribution of churn/not churn from all the data
+- Distribution of predictor variables over the label
+
+<p align="center">
+  <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/custchurn.png" alt="EDA"/>
+</p>
+
+From the graph above we know that the less the monthly charges, the less the possibilities to do churn. For the total charges, the data is not significant. And for tenure, we see that the longer customer subscribe the company, the less their possibilities to churn. 
+
+Then, i did preprocessing to the data and model it using Random Forest Classifier. 
+<p align="center">
+  <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/Accuracy%20of%20training%20data.png" alt="EDA"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/Accuracy%20of%20testing%20data.png" alt="EDA"/>
+</p>
+
+From the training data above, the model could predict data with accuracy 100%. From the testing data, model could predict 78% accuracy. This shows that our model is over fitting. So, for the next session we can try the other model and choose the best model.

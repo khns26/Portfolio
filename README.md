@@ -43,7 +43,4 @@ This project aims to help Telecommunication company to predict its customer chur
 1. Exploratory Data Analysis
 2. Data Pre-Processing
 3. Machine Learning Modeling
-4. Determining the best model
-
-
 

@@ -43,3 +43,12 @@ Data science portfolio
 - I made a model to predict house prices using array of numbers
 - This only uses 1 feature which is number of bedrooms
 
+# [Project 4 : Customer Churn Prediction]
+This project aims to help Telecommunication company to predict its customer churn. I did these four steps in this project:
+1. Exploratory Data Analysis
+2. Data Pre-Processing
+3. Machine Learning Modeling
+4. Determining the best model
+
+
+

@@ -96,4 +96,4 @@ And for last thing i wanted to visualize the accumulative of active cases, recov
   <img src="https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python/blob/main/dinamika.png"/>
 </p>
 
-We can see that the recovered cases keep increasing and the death also the active cases show no significant numbers. Even so, we must remain careful and still obey the health protocols. And don't be afraid to get vaccinated. Stay safe everyone!
+We can see that the recovered cases keep increasing but the death also the active cases show no significant numbers. Even so, we must remain careful and still obey the health protocols. And don't be afraid to get vaccinated. Stay safe everyone!

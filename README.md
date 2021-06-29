@@ -69,3 +69,6 @@ Then, i did preprocessing to the data and model it using Random Forest Classifie
 </p>
 
 From the training data above, the model could predict data with accuracy 100%. From the testing data, model could predict 78% accuracy. This shows that our model is over fitting. So, for the next session we can try the other model and choose the best model.
+
+# [Project 4 : Indonesia COVID-19 Data Analysis]
+In this project, i analyzed COVID-19 data in Indonesia using API provided in covid19.go.id. 

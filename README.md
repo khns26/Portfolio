@@ -73,9 +73,27 @@ From the training data above, the model could predict data with accuracy 100%. F
 # [Project 4 : Indonesia COVID-19 Data Analysis](https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python)
 In this project, i analyzed COVID-19 data in Indonesia using API provided in covid19.go.id. The first thing that i did in this project is cleaning the data. After that i tried to visualize the daily positive COVID-19 cases in West Java, one of the provinces in Indonesia. 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python/blob/main/dailypositivewestjava.png"/>
 </p>
 
 Then, i had a question in my mind, what happened in July 2020? Why there was a significant increasing cases? I googled it and it was because of Secapa AD cluster. And there was also spike on March 2021 untill July 2021. Based on what i searched, it was because many people feel safe after got vaccinated so they ignored the health protocol. 
 
+What about the recovered cases? The data has already been provided in API. I visualized them to see what the data looked like.
 
+<p align="center">
+  <img src="https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python/blob/main/recovered.png"/>
+</p>
+
+And the death cases?
+
+<p align="center">
+  <img src="https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python/blob/main/death.png"/>
+</p>
+
+And for last thing i wanted to visualize the accumulative of active cases, recovered cases, and death cases in the same axes.
+
+<p align="center">
+  <img src="https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python/blob/main/dinamika.png"/>
+</p>
+
+We can see that the recovered cases keep increasing and the death also the active cases show no significant numbers. Even so, we must remain careful and still obey the health protocols. And don't be afraid to get vaccinated. Stay safe everyone!

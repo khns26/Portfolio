@@ -1,5 +1,8 @@
-# Khansa's Portfolio
-This page contains my data science project
+<h1 align="center">
+Khansa Afifah <br>
+Math Undergraduate Student
+</h1>
+<p align="center"> This page contains my data science project. <b> Click the title to see the source code of the project </b></p>
 
 # [Project 1 : Time Series Analysis](https://github.com/khns26/mini_project/blob/90b98cbf188f9724876d4e5c2ede3dac06de1cfd/Time%20Series%20Forecasting.R)
 - Time Series is a series of data that are assembled over even intervals in time and ordered chronologically

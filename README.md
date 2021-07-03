@@ -54,7 +54,7 @@ In this case, we'll be covering the distribution of :
 - Distribution of predictor variables over the label
 
 <p align="center">
-  <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/custchurn.png" alt="EDA"/>
+  <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/custchurn.png?raw=true" alt="EDA"/>
 </p>
 
 From the graph above we know that the less the monthly charges, the less the possibilities to do churn. For the total charges, the data is not significant. And for tenure, we see that the longer customer subscribe the company, the less their possibilities to churn. 

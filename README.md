@@ -30,18 +30,17 @@ Math Undergraduate Student
 <img src="https://github.com/khns26/mini_project/blob/main/asli%20vs%20taksiran.jpg?raw=true"/>
   </p>
 
-# [Project 2 : Modeling CO2 Emission and Engine Size Using Linear Regression](https://github.com/khns26/mini_project/blob/90b98cbf188f9724876d4e5c2ede3dac06de1cfd/Modeling_CO2_Emission_and_Engine_Size.ipynb)
-- I analyzed data of fuel consumption of vehicles
-- And then i scatterplotted the data of CO2 Emission and Engine Size to know the relationship
-<p align="center">
-<img src="https://github.com/khns26/mini_project/blob/main/scatterplot%20co2%20and%20engine%20size.png?raw=true" alt="Scatterplot of CO2 Emission and Engine Size"/>
-  </p>
-  
-- It told us that the larger engine size, the higher its CO2 Emisson
-- Then i modeled the data using Linear Regression and plotted with train data
-<p align="center">
-  <img src="https://github.com/khns26/Portfolio/blob/main/linreg.png?raw=true" alt="Plot the fitting model"/>
-</p>
+# [Project 2 : Text Classification on Movie Reviews using Multinomial Naive Bayes](https://github.com/khns26/mini_project/blob/main/Text%20Classification_MultinomialNB.ipynb)
+This mini project aims to classify sentiments on reviews. The dataset i used was <a href='https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data'>Movie Reviews</a> dataset from Rotten Tomatoes --an American review-aggregation website for film and television.  The dataset consists of two files, train.csv and test.csv. The sentiment labels are 
+0 : negative
+1 : somewhat negative
+2 : neutral
+3 : somewhat positive
+4 : positive
+First, i read the train.csv file. Then, i look at the top five data to see what kind of data i was dealing with. Then, i used value_counts() to see the numbers of each sentiment. 
+I got 79582 data for label 2, 32927 for label 3, 27273 for label 1, 9206 for label 4, and 7072 for label 0. To make it clearer, i visualized it in bar graph.
+<p align='center> <img src='https://github.com/khns26/mini_project/blob/main/bar%20graph.png'></p>
+                                                                                             
 
 # [Project 3 : Customer Churn Prediction](https://github.com/khns26/Customer_Churn_Prediction)
 This project aims to help Telecommunication company to predict its customer churn. I did these three steps in this project:

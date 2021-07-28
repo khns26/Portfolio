@@ -47,6 +47,7 @@ Then, i dropped the 'PhraseID' and 'SentenceId' columns since these were not nec
 The next step, i had to preprocess the data. Since the data is text and it is unstructured data, and machine learning can process nothing but numerical data, so we have to transform our data into numerical data. I used preprocessing method that is specialized for text preprocessing, namely Bag of Words. Bag of Words transforms text data into vectors. BOW gaves 0 if the word doesn't appear on a document or it gaves the frequency of the word appears on a document.      
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bow.png?raw=true"></p>
 Next, i splitted the data into train data and test data with the ratio 7:3. 
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/traintestsplit.png?raw=true"></p>
 The next step, i fitted the data using Multinomial Naive Bayes and predicted the X_test data. 
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/fit%20n%20predict.png?raw=true"></p>
 The accuracy was 60.7% which was still not good enough. So, next time, we have to try using different feature extraction or different model to get better accuracy.

@@ -39,7 +39,7 @@ This mini project aimed to classify sentiments on reviews. The dataset i used wa
 - 4 : positive
 
 First, i read the train.csv file. Then, i looked at the top five data to see what kind of data i was dealing with. 
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/datahead.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/datahead.png?raw=true"></p>
 Then, i used value_counts() to see the numbers of each sentiment. I got 79582 data for label 2, 32927 for label 3, 27273 for label 1, 9206 for label 4, and 7072 for label 0. <br><br> To make it clearer, i visualized it in bar graph. <br>
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png"></p>
 We can see that the majority of reviews are somewhat negative.

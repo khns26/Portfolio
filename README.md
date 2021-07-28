@@ -31,6 +31,7 @@ Math Undergraduate Student
   </p>
 
 # [Project 2 : Text Classification on Movie Reviews using Multinomial Naive Bayes](https://github.com/khns26/mini_project/blob/main/Text%20Classification_MultinomialNB.ipynb)
+<br>
 This mini project aims to classify sentiments on reviews. The dataset i used was <a href='https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data'>Movie Reviews</a> dataset from Rotten Tomatoes --an American review-aggregation website for film and television.  The dataset consists of two files, train.csv and test.csv. The sentiment labels are 
 0 : negative
 1 : somewhat negative

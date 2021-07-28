@@ -31,14 +31,14 @@ Math Undergraduate Student
   </p>
 
 # [Project 2 : Text Classification on Movie Reviews using Multinomial Naive Bayes](https://github.com/khns26/mini_project/blob/b3ea88f071f406ab8e5de84315e5e49c357274c6/MultinomialNB%20-%20Text%20Classification.ipynb)
-This mini project aimed to classify sentiments on reviews. The dataset i used was <a href='https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data'>Movie Reviews</a> dataset from Rotten Tomatoes --an American review-aggregation website for film and television.  The dataset consists of two files, train.csv and test.csv. The sentiment labels are 
+This mini project aimed to classify sentiments on reviews. The dataset i used was <a href='https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data'>Movie Reviews</a> dataset from Rotten Tomatoes --an American review-aggregation website for film and television.  The dataset consists of two files, train.tsv and test.tsv. The sentiment labels are 
 - 0 : negative
 - 1 : somewhat negative
 - 2 : neutral
 - 3 : somewhat positive
 - 4 : positive
 
-First, i read the train.csv file. Then, i looked at the top five data to see what kind of data i was dealing with. 
+First, i read the train.tsv file. Then, i looked at the top five data to see what kind of data i was dealing with. 
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/datahead.png?raw=true"></p>
 Then, i used value_counts() to see the numbers of each sentiment. I got 79582 data for label 2, 32927 for label 3, 27273 for label 1, 9206 for label 4, and 7072 for label 0. <br><br> To make it clearer, i visualized it in bar graph. <br>
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png?raw=true"></p>

@@ -41,14 +41,14 @@ This mini project aimed to classify sentiments on reviews. The dataset i used wa
 First, i read the train.csv file. Then, i looked at the top five data to see what kind of data i was dealing with. 
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/datahead.png?raw=true"></p>
 Then, i used value_counts() to see the numbers of each sentiment. I got 79582 data for label 2, 32927 for label 3, 27273 for label 1, 9206 for label 4, and 7072 for label 0. <br><br> To make it clearer, i visualized it in bar graph. <br>
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png?raw=true"></p>
 We can see that the majority of reviews are somewhat negative.
 Then, i dropped the 'PhraseID' and 'SentenceId' columns since these were not necessary. After that, i created a variable X for storing all the sentences in 'Phrase' column and y for storing the label of sentiment.
 The next step, i had to preprocess the data. Since the data is text and it is unstructured data, and machine learning can process nothing but numerical data, so we have to transform our data into numerical data. I used preprocessing method that is specialized for text preprocessing, namely Bag of Words. Bag of Words transforms text data into vectors. BOW gaves 0 if the word doesn't appear on a document or it gaves the frequency of the word appears on a document.      
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bow.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bow.png?raw=true"></p>
 Next, i splitted the data into train data and test data with the ratio 7:3. 
 The next step, i fitted the data using Multinomial Naive Bayes and predicted the X_test data. 
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/fit%20n%20predict.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/fit%20n%20predict.png?raw=true"></p>
 The accuracy was 60.7% which was still not good enough. So, next time, we have to try using different feature extraction or different model to get better accuracy.
 
 # [Project 3 : Customer Churn Prediction](https://github.com/khns26/Customer_Churn_Prediction)

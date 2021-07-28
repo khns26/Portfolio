@@ -39,15 +39,17 @@ This mini project aims to classify sentiments on reviews. The dataset i used was
 - 4 : positive
 
 First, i read the train.csv file. Then, i look at the top five data to see what kind of data i was dealing with. 
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/datahead.png"></p>
 Then, i used value_counts() to see the numbers of each sentiment. I got 79582 data for label 2, 32927 for label 3, 27273 for label 1, 9206 for label 4, and 7072 for label 0. <br><br> To make it clearer, i visualized it in bar graph. <br>
 <p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png"></p>
 We can see that the majority of reviews are somewhat negative.
 Then, i drop the 'PhraseID' and 'SentenceId' columns since these are not necessary. After that, i created a variable X for storing all the sentences in 'Phrase' column and y for storing the label of sentiment.
 The next step, i had to preprocess the data. Since the data is text and it is unstructured data, and machine learning can process nothing but numerical data, so we have to transform our data into numerical data. I used preprocessing method that is specialized for text, namely Bag of Words. Bag of Words transform text data into vectors. BOW gaves 0 if the word doesn't appear on a document or it gaves the frequency of the word appears on a document.      
-<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bar%20graph.png"></p>
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/bow.png"></p>
 Next, i splitted the data into train data and test data with the ratio 7:3. 
-The next step, i fit the data using Multinomial Naive Bayes and predict the X_test data. I calculated the accuracy also and it gave us 60.6& accuracy which is still not good enough. So, next time, we have to try using different feature extraction or different model.
+The next step, i fit the data using Multinomial Naive Bayes and predict the X_test data. 
+<p align="center"> <img src="https://github.com/khns26/mini_project/blob/main/fit%20n%20predict.png"></p>
+The accuracy is 60.7% which is still not good enough. So, next time, we have to try using different feature extraction or different model.
 
 # [Project 3 : Customer Churn Prediction](https://github.com/khns26/Customer_Churn_Prediction)
 This project aims to help Telecommunication company to predict its customer churn. I did these three steps in this project:

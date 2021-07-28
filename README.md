@@ -81,7 +81,7 @@ Then, i did preprocessing to the data and model it using Random Forest Classifie
   <img src="https://github.com/khns26/Customer_Churn_Prediction/blob/main/Accuracy%20of%20testing%20data.png?raw=true" alt="EDA"/>
 </p>
 
-From the training data above, the model could predict data with accuracy 100%. From the testing data, model could predict 78% accuracy. This shows that our model is over fitting. So, for the next session we can try the other model and choose the best model.
+From the training data above, the model could predict data with accuracy 100%. From the testing data, model could predict 78% accuracy. This shows that our model is overfitting. So, for the next session we can try the other model and choose the best model.
 
 # [Project 4 : Indonesia COVID-19 Data Analysis](https://github.com/khns26/Indonesia-COVID-19-Analysis-using-Python)
 In this project, i analyzed COVID-19 data in Indonesia using API provided in covid19.go.id. The first thing that i did in this project is cleaning the data. After that i tried to visualize the daily positive COVID-19 cases in West Java, one of the provinces in Indonesia. 

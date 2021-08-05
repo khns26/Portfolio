@@ -111,3 +111,11 @@ And for last thing i wanted to visualize the accumulative of active cases, recov
 </p>
 
 We can see that the recovered cases keep increasing but the death also the active cases show no significant numbers. Even so, we must remain careful and still obey the health protocols. And don't be afraid to get vaccinated. Stay safe everyone!
+
+
+<h2> Courses and Certifications </h2>
+
+1. Applied Machine Learning in Python by Coursera <br> 
+<p align="center">
+  <img src="https://github.com/khns26/Portfolio/blob/main/Coursera-Applied%20Machine%20Learning%20in%20Python-NQ3VQU2A2KQM-1.png?raw=true"/>
+</p>

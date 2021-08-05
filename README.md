@@ -117,5 +117,5 @@ We can see that the recovered cases keep increasing but the death also the activ
 
 1. Applied Machine Learning in Python by Coursera <br> 
 <p align="center">
-  <img src="https://github.com/khns26/Portfolio/blob/main/Coursera-Applied%20Machine%20Learning%20in%20Python-NQ3VQU2A2KQM-1.png?raw=true"/>
+  <img src="https://github.com/khns26/Portfolio/blob/main/Coursera-Applied%20Machine%20Learning%20in%20Python-NQ3VQU2A2KQM-1.png?raw=true" width="100"/>
 </p>

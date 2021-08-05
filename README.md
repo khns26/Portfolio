@@ -116,6 +116,26 @@ We can see that the recovered cases keep increasing but the death also the activ
 <h2> Courses and Certifications </h2>
 
 1. Applied Machine Learning in Python by Coursera <br> 
-<p align="center">
+<p>
   <img src="https://github.com/khns26/Portfolio/blob/main/Coursera-Applied%20Machine%20Learning%20in%20Python-NQ3VQU2A2KQM-1.png?raw=true" width="300"/>
+</p>
+2. Machine Learning Pemula by Dicoding <br>
+<p>
+  <img src="https://github.com/khns26/Portfolio/blob/main/Machine%20Learning%20Pemula%20Dicoding-1.png?raw=true" width="300"/>
+</p>
+3. Data Manipulations with Pandas by Datacamp <br>
+<p>
+  <img src="https://github.com/khns26/Portfolio/blob/main/Data%20Manipulations%20with%20Pandas%20Datacamp-1.png?raw=true" width="300"/>
+</p>
+4. Time Series Analysis in R by Datacamp <br>
+<p>
+  <img src="https://github.com/khns26/Portfolio/blob/main/Time%20Series%20Analysis%20Datacamp-1.png?raw=true" width="300"/>
+</p>
+5. Data Analysis in Spreadsheet by Datacamp <br>
+<p>
+  <img src="https://github.com/khns26/Portfolio/blob/main/Data%20Analysis%20in%20Spreadsheets-1.png?raw=true" width="300"/>
+</p>
+6. SQL Course by Progate <br>
+<p>
+  <img src="https://github.com/khns26/Portfolio/blob/main/SQL%20Certificate%20from%20Progate-1.png?raw=true" width="300"/>
 </p>
